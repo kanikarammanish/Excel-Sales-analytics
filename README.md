@@ -1,46 +1,63 @@
 # Excel-Sales-analytics
 
-## Sales Report :
+📊 Sales & Finance Analytics Dashboard
+📌 Project Overview
+This project delivers Sales and Finance analytics to help businesses monitor, evaluate, and optimize performance.
+It combines customer performance insights, market-vs-target comparisons, and detailed Profit & Loss (P&L) reporting to support data-driven decision-making.
 
+🎯 Objectives
+Sales Report
+Create a Customer Performance report.
 
-- **Project objective:** 
+Compare Market Performance against Sales Targets.
 
-    **1.** Create a _[customer performance report](https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+Purpose:
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+Monitor and evaluate sales activities.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+Identify patterns and track key KPIs.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Impact:
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Determine effective discounts for customers.
 
+Support negotiation with consumers.
 
-## Finance Report :
+Identify potential expansion opportunities in promising markets.
 
-- **Project objective:** 
+Finance Report
+Create P&L reports by Fiscal Year & Month.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+Create P&L reports by Market.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+Purpose:
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+Evaluate financial performance and support strategic decision-making.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+Benchmark performance against peers and previous periods.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+Impact:
 
+Align financial planning with strategic goals.
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+Instill confidence in the organization’s financial outlook.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+🛠️ Technical Skills Used
+ETL: Power Query (data extraction, transformation, and loading).
+
+Data Modeling: Power Pivot (relationships, star schema design).
+
+DAX: Calculated columns, measures, fiscal calendar calculations.
+
+Date Table Generation: Custom fiscal months & quarters.
+
+Data Integration: Incorporating supplementary datasets into the model.
+
+🤝 Soft Skills Applied
+Deep understanding of sales & finance reporting.
+
+User-centric dashboard design with business empathy.
+
+Optimized report performance through fine-tuning.
+
+Systematic report-building approach (scoping → modeling → measures → UX → validation).
