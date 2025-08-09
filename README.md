@@ -1,13 +1,14 @@
 # Excel-Sales-analytics
 
-📊 Sales & Finance Analytics Dashboard
-📌 Project Overview
+#📊 Sales & Finance Analytics Dashboard
+
+📌 **Project Overview**
 This project delivers Sales and Finance analytics to help businesses monitor, evaluate, and optimize performance.
 It combines customer performance insights, market-vs-target comparisons, and detailed Profit & Loss (P&L) reporting to support data-driven decision-making.
 
-🎯 Objectives
+🎯 **Objectives**
 Sales Report
-Create a Customer Performance report.
+Create a Customer Performance report(https://github.com/kanikarammanish/Excel-Sales-analytics/blob/main/Customer%20Performance%20Report.pdf).
 
 Compare Market Performance against Sales Targets.
 
